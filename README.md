@@ -2,6 +2,8 @@
 Recommendation Engine - YELP
 
 Task 1: Similarity code for finding Jaccard Similarity between two vectors
+
+
 Task 2: 
         Built User-Based, Item-Based and Model-Based Recommendation Engines for the Yelp Dataset.
 
